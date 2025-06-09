@@ -1,5 +1,4 @@
-# you can read saved data as follows
-# points=np.loadtxt(filepath, delimiter=' ')
+
 
 import numpy as np
 import matplotlib.pyplot as plt
